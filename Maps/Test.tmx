@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="320" height="180" tilewidth="16" tileheight="16" infinite="1" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="Grass/Dirt" tilewidth="16" tileheight="16" tilecount="33" columns="11">
+  <image source="../Art/Action RPG Resources/World/GrassandRoadTileSet.png" width="176" height="48"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="320" height="180">
+  <data encoding="base64" compression="zstd">
+   <chunk x="-16" y="-160" width="16" height="16">
+   KLUv/WAAA90AAFAAAAwAAAANDgAHBQBgSGAIFBgX8S7TKyuABQ==
+  </chunk>
+   <chunk x="0" y="-160" width="16" height="16">
+   KLUv/WAAA60BAIgAAA8AAAAcGwAPEAAAABEFHA6AANHSAYAD4CV4N2MMRA7BLBWMk1N42yWMe+y4VjL2VeAH
+  </chunk>
+   <chunk x="-16" y="-144" width="16" height="16">
+   KLUv/WAAA+0BAKAAAAwAAAANDgAHDR4fDQ0gIQANABSg8JhrcIPFHYMqnJ5/9beTwzGed/0Cn0NxOMbyxJEOJRjEPdNmbgE=
+  </chunk>
+   <chunk x="0" y="-144" width="16" height="16">
+   KLUv/WAAAwUCAJAPAAAADwAAABoQAAYcAg0HABgWoFC17cCCRYEdYVBxgfeYj7ClE55eO/mEc+Qjj8SMGJliZ9n3JLZ4J8llQwY=
+  </chunk>
+  </data>
+ </layer>
+</map>
